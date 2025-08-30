@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6GuFLucVCEclthZigN8wYJVoJl5mBX7mxMZwg7P9U+0=",
+  "Source": "Store.Api",
+  "BasePath": "_content/Store.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
